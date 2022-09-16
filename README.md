@@ -1,5 +1,5 @@
 # revisao-vue: Make Your Burger
-Projeto criado para relembrar como criar paginas com VueJS e iniciando prática com Vue 3
+Projeto revisão do conhecimento sobre VueJS e iniciando prática com Vue 3
 
 Projeto criado com base no curso do https://youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
 
