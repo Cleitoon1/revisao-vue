@@ -1,19 +1,10 @@
-# make_your_burger
+# revisao-vue
+Projeto criado para relembrar como criar paginas com VueJS e iniciando prática com Vue 3
 
-## Project setup
-```
-npm install
-```
+Projeto criado com base no curso do https://youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Para executar o projeto basta executar o comando:
+ npm run serve
+ 
+ Para executar a fake api executar o comando:
+ npm run backend
